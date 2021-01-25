@@ -1,4 +1,4 @@
-# RUT Firmware building using docker
+# Teltonika RUT Firmware building using docker
 
 ## Setting up (you only need do this the once)
 
