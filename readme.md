@@ -4,7 +4,7 @@
 
 Download this repo:
 
-`git clone github.com/kgolding/teltonika-build-with-docker`
+`git clone git@github.com:kgolding/teltonika-build-with-docker.git`
 
 Change into the new directory:
 
